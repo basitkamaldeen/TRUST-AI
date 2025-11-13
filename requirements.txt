@@ -1,0 +1,10 @@
+transformers
+datasets
+peft
+accelerate
+gradio
+wandb
+huggingface_hub
+label-studio
+evidently
+torch
